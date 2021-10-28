@@ -60,7 +60,7 @@ CotoGotoでは、毎日の会話からモチベーションを解析を行うこ
 | 驚   | 残   | 残念          | astonishment | astonishment3 |
 | 驚   | 恐   | 恐れ（恐縮等の意味で） | astonishment | astonishment4 |
 
-{% embed url="https://www.jnlp.org/GengoHouse/snow/d18" %}
+
 
 また、感情分類からビッグファイブ解析に基づき、あなたの性格を分析します。
 
@@ -72,5 +72,14 @@ CotoGotoでは、毎日の会話からモチベーションを解析を行うこ
 
 {% embed url="https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%82%B0%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96_(%E5%BF%83%E7%90%86%E5%AD%A6)" %}
 
+> BigFiveの分類をするために「[感情判断とBig Fiveを用いたブログ著者の性格推定に関する調査](https://www.jstage.jst.go.jp/article/pjsai/JSAI2015/0/JSAI2015\_4J15/\_article/-char/ja/)」を参考にさせていただきました。
+>
+> 性格分析については、Wikipediaの「[複合的なパーソナリティ](https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%82%B0%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96\_\(%E5%BF%83%E7%90%86%E5%AD%A6\))」を参考にさせていただきました。
+
+
+
+
+
+\
 
 

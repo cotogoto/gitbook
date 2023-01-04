@@ -28,11 +28,13 @@ Google アシスタント や Alexa などから、作業開始をするとき�
 
 CotoGotoからメール通知がありますが、メールの受信をしたくない場合は、「[アプリケーション設定](https://app.cotogoto.ai/3\_0/setApplication#!)」画面からメールを受信するのチェックを外すことで、メール通知が止まります。
 
-![](.gitbook/assets/スライド1.PNG)
+<figure><img src=".gitbook/assets/メール選択.png" alt=""><figcaption></figcaption></figure>
 
 ## **Q5. 各サービス連携の解除方法** <a href="#how-to-unsubscribe" id="how-to-unsubscribe"></a>
 
 各サービスとの連携を解除をするには、「[アプリケーション設定](https://app.cotogoto.ai/3\_0/setApplication#!)」画面から「ログイン連携」「SNS連携」「カレンダー連携」「リマインド連携」のサービス解除のボタンを押すことで、連携が解除されます。
+
+<figure><img src=".gitbook/assets/FireShot Capture 157 - アプリケーション設定 - CotoGoto - app.cotogoto.ai.png" alt=""><figcaption></figcaption></figure>
 
 1. ログイン連携\
    ・Apple\

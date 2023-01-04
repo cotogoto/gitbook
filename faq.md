@@ -32,7 +32,7 @@ CotoGotoからメール通知がありますが、メールの受信をしたく
 
 ## **Q5. 各サービス連携の解除方法** <a href="#how-to-unsubscribe" id="how-to-unsubscribe"></a>
 
-各サービスとの連携を解除をするには、「[アプリケーション設定](https://app.cotogoto.ai/3\_0/setApplication#!)」画面から「ログイン連携」「SNS連携」「カレンダー連携」「リマインド連携」のサービス解除のボタンを押すことで、連携が解除されます。
+各サービスとの連携を解除をするには、『[アプリケーション設定](https://app.cotogoto.ai/3\_0/setApplication#!)』画面から「ログイン連携」「SNS連携」「カレンダー連携」「リマインド連携」のサービス解除のボタンを押すことで、連携が解除されます。
 
 <figure><img src=".gitbook/assets/FireShot Capture 157 - アプリケーション設定 - CotoGoto - app.cotogoto.ai.png" alt=""><figcaption></figcaption></figure>
 
@@ -58,7 +58,7 @@ CotoGotoからメール通知がありますが、メールの受信をしたく
 
 ## **Q6. 退会方法** <a href="#how-to-unsubscribe" id="how-to-unsubscribe"></a>
 
-退会についてはブラウザからWebページにログイン後、『アカウント』の『アカウントを廃止する場合』から遷移することで、退会することができます。
+退会についてはブラウザからWebページにログイン後、『[アカウント](https://app.cotogoto.ai/3\_0/account)』の『[アカウントを廃止する場合](https://app.cotogoto.ai/3\_0/abolition)』から遷移することで、退会することができます。
 
 {% embed url="https://app.cotogoto.ai/3_0/abolition" %}
 

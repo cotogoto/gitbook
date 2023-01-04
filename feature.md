@@ -176,7 +176,7 @@ Alexa連携をすることでAI（人工知能）と会話を通じてコトゴ�
 
 #### **・左サイド > アプリケーション設定**
 
-![](<.gitbook/assets/image (19).png>)
+<figure><img src=".gitbook/assets/FireShot Capture 155 - アプリケーション設定 - CotoGoto - app.cotogoto.ai.png" alt=""><figcaption></figcaption></figure>
 
 #### **・使い方**
 

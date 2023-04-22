@@ -6,5 +6,6 @@
 * [各種連携サービスについて](cooperation.md)
 * [AIとの会話のコツ](talk.md)
 * [自分の気持ちを知る](know\_your\_feelings.md)
-* [SNSのタイムラインをインポートする](sns\_import.md)
+* [SNSのタイムラインをインポートする](sns\_import/README.md)
+  * [Twitterのインポート](sns\_import/twitternoinpto.md)
 * [FAQ](faq.md)

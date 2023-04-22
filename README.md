@@ -26,6 +26,6 @@ description: はじめる前にCotoGoto（コトゴト）で何ができるの�
 
 人工知能のパートナーはiPhoneとAndroidに対応しており、以下の場所からダウンロードすることができます。
 
-**→** [**iPhoneはこちらからダウンロード**](https://itunes.apple.com/us/app/kotogoto-ren-gong-zhi-nengwo/id987047565?mt=8)****
+**→** [**iPhoneはこちらからダウンロード**](https://itunes.apple.com/us/app/kotogoto-ren-gong-zhi-nengwo/id987047565?mt=8)
 
 **→** [**Androidはこちらからダウンロード**](https://play.google.com/store/apps/details?id=jp.linedesign.cotogoto2)

@@ -1,5 +1,7 @@
 # Twitterのインポート
 
+## 1. データのアーカイブをダウンロード
+
 Twitterアーカイブからダウンロードしたデータをデータベースにアップロードには、以下の手順が必要となります。
 
 1. Twitterにログインします。
@@ -15,4 +17,10 @@ Twitterアーカイブからダウンロードしたデータをデータベー�
 ※詳細については、以下の「全ツイート履歴をダウンロードする方法」を参考にしてください。
 
 {% embed url="https://help.twitter.com/ja/managing-your-account/how-to-download-your-twitter-archive" %}
+
+## 2. アーカイブのアップロード
+
+
+
+
 

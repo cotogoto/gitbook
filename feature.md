@@ -8,7 +8,7 @@ description: 各機能の説明をしています。
 
 #### **・ヘッダー部 > コトゴトのロゴ部分**
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 #### **・使い方**
 

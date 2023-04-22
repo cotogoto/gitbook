@@ -7,5 +7,5 @@
 * [AIとの会話のコツ](talk.md)
 * [自分の気持ちを知る](know\_your\_feelings.md)
 * [SNSのタイムラインをインポートする](sns\_import/README.md)
-  * [Twitterのインポート](sns\_import/twitternoinpto.md)
+  * [Twitterのインポート](sns\_import/twitter.md)
 * [FAQ](faq.md)

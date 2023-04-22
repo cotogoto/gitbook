@@ -88,7 +88,7 @@ description: 各機能の説明をしています。
 
 ### **6-1. 作業場所集計** <a href="#6-1-workplacesummary" id="6-1-workplacesummary"></a>
 
-![](<.gitbook/assets/image (12).png>)
+![](<.gitbook/assets/image (12) (1).png>)
 
 #### **・使い方**
 
@@ -186,7 +186,7 @@ Alexa連携をすることでAI（人工知能）と会話を通じてコトゴ�
 
 #### **・左サイド > ログ管理**
 
-![](<.gitbook/assets/image (18).png>)
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 #### **・使い方**
 

@@ -5,8 +5,3 @@ TwitterとFacebookのAPI制限により、タイムラインの同期ができ�
 これにより、定期的にデータアーカイブをアップロードすることで、TwitterとFacebookのタイムラインを更新し、最新の情報を保持することが可能になります。
 
 {% embed url="https://docs.cotogoto.ai/sns_import/twitter" %}
-
-
-
-
-

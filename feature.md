@@ -22,7 +22,7 @@ description: 各機能の説明をしています。
 
 #### **・左サイド > チャット**
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (1).png>)
 
 #### **・使い方**
 
@@ -66,7 +66,7 @@ description: 各機能の説明をしています。
 
 ### 5-1. プロジェクト集計 <a href="#5-1" id="5-1"></a>
 
-![](<.gitbook/assets/image (10).png>)
+![](<.gitbook/assets/image (10) (1).png>)
 
 #### **・使い方**
 
@@ -174,7 +174,7 @@ Alexa連携をすることでAI（人工知能）と会話を通じてコトゴ�
 
 #### **・左サイド > アプリケーション設定**
 
-<figure><img src=".gitbook/assets/FireShot Capture 155 - アプリケーション設定 - CotoGoto - app.cotogoto.ai.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 #### **・使い方**
 

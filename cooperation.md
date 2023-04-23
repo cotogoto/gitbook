@@ -6,7 +6,7 @@ description: 各種連携サービスについての説明をしています。
 
 ## 1. CotoGotoと様々なサービスの連携
 
-&#x20;CotoGotoは多くのサービスと連携できるため、FacebookやTwitterから作業の開始・終了を通知したり、LINEやSlackのBotを使ってCotoGotoを操作したり、Googleカレンダーで作業結果を可視化したりできます。これらの機能はCotoGotoにログインして設定することで利用できます。
+&#x20;CotoGotoは多くのサービスと連携できるため、FacebookやTwitterのタイムラインを取り込んだり、LINEやSlackのBotを使ってCotoGotoを操作したり、Googleカレンダーで作業結果を可視化したりできます。これらの機能はCotoGotoにログインして設定することで利用できます。
 
 ![](.gitbook/assets/cooperation.png)
 

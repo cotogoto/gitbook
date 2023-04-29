@@ -22,7 +22,7 @@ Facebookアーカイブからダウンロードしたデータをデータベー
 
 ## 2. アーカイブのアップロード
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 アーカイブデータの取り込み手順は以下の通りです。
 

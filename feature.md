@@ -37,7 +37,7 @@ description: 各機能の説明をしています。
 
 #### **・左サイド > タイムライン**
 
-![](<.gitbook/assets/image (4) (1).png>)
+![](<.gitbook/assets/image (4) (1) (1).png>)
 
 #### **・使い方**
 

@@ -8,4 +8,5 @@
 * [自分の気持ちを知る](know\_your\_feelings.md)
 * [SNSのタイムラインをインポートする](sns\_import/README.md)
   * [Twitterのインポート](sns\_import/twitter.md)
+  * [Facebookのインポート](sns\_import/facebook.md)
 * [FAQ](faq.md)

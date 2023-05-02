@@ -8,7 +8,7 @@ description: 各種連携サービスについての説明をしています。
 
 &#x20;CotoGoto（コトゴト）は、さまざまなサービスとの連携に対応しています。これらの連携サービスを利用することで、CotoGotoはあなたの日常生活や仕事環境により適応し、より効果的な作業管理をサポートします。各サービスとの連携は簡単に設定でき、個人やチームのニーズに合わせてカスタマイズが可能です。これにより、作業管理やタスクの進捗状況をリアルタイムで把握し、生産性を向上させることができます。
 
-![](.gitbook/assets/cooperation.png)
+<figure><img src=".gitbook/assets/スライド1.PNG" alt=""><figcaption></figcaption></figure>
 
 ## 2. LINE Bot連携
 

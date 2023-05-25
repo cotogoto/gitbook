@@ -1,5 +1,7 @@
 # Facebookのインポート
 
+{% embed url="https://www.youtube.com/watch?v=pAsLEWCOTQ4" %}
+
 ## 1. データのアーカイブをダウンロード
 
 Facebookアーカイブからダウンロードしたデータをデータベースにアップロードには、以下の手順が必要となります。

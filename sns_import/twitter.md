@@ -1,5 +1,7 @@
 # Twitterのインポート
 
+{% embed url="https://www.youtube.com/watch?v=NFU9gZVSUuU" %}
+
 ## 1. データのアーカイブをダウンロード
 
 Twitterアーカイブからダウンロードしたデータをデータベースにアップロードには、以下の手順が必要となります。

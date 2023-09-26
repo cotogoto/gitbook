@@ -196,11 +196,40 @@ Facebook、Twitter連携したときのツイートや投稿の管理がこち�
 
 #### **・ヘッダー部 > アカウント**
 
-![](<.gitbook/assets/image (17).png>)
+一般、モバイル、人工知能、パスワードの設定を行います。
+
+### **13-1. 一般**
+
+<figure><img src=".gitbook/assets/FireShot Capture 064 - アカウント - CotoGoto - app.cotogoto.ai.png" alt=""><figcaption></figcaption></figure>
 
 #### **・使い方**
 
-ユーザー情報、人工知能、パスワードの設定を行います。
+ユージー名やメールアドレスの設定を行います。
+
+### **13-2. モバイル**
+
+<figure><img src=".gitbook/assets/FireShot Capture 065 - アカウント - CotoGoto - app.cotogoto.ai.png" alt=""><figcaption></figcaption></figure>
+
+#### **・使い方**
+
+モバイル用のメールアドレスを設定します。\
+人工知能と会話に利用するメールアドレスは、アカウント登録したメールアドレスとモバイル用のメールアドレスの二つが利用できます。
+
+### **13-3. 人工知能**
+
+<figure><img src=".gitbook/assets/FireShot Capture 066 - アカウント - CotoGoto - app.cotogoto.ai.png" alt=""><figcaption></figcaption></figure>
+
+#### **・使い方**
+
+人工知能のキャラクタや性格を設定できます。
+
+### **13-4. パスワード**
+
+<figure><img src=".gitbook/assets/FireShot Capture 067 - アカウント - CotoGoto - app.cotogoto.ai.png" alt=""><figcaption></figcaption></figure>
+
+#### **・使い方**
+
+パスワードの設定を行います。
 
 ## 14. エクスポート
 

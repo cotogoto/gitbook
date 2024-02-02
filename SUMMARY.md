@@ -10,4 +10,5 @@
 * [SNSのタイムラインをインポートする](sns\_import/README.md)
   * [Twitterのインポート](sns\_import/twitter.md)
   * [Facebookのインポート](sns\_import/facebook.md)
+* [Discord Bot マニュアル](discord\_manual.md)
 * [FAQ](faq.md)

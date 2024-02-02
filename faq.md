@@ -21,15 +21,17 @@ description: よくある質問をまとめています。
 
 ## Q3. Line Botとの連携方法について <a href="#how-to-work-with-line-bot" id="how-to-work-with-line-bot"></a>
 
-LINE Botは、Webの画面にログイン後、画面右上のアプリ設定からLINEと連携を行い、その後、LINE Botからログイン画面を表示させて連携を行うことで、利用可能となります。
+LINE Botを利用するためには、CotoGotoに登録済みである必要があります。
+
+LINE連携が行われていない場合は、画面左側サイドメニューのアプリケーション設定からLINEと連携を行い、その後、LINE Botからログイン画面を表示させて連携を行うことで、利用可能となります。
 
 それ以外の場合は、以下のようなエラーメッセージが出ます。
 
 ![](.gitbook/assets/IMG\_4441\_iphonexspacegrey\_portrait.png)
 
-## Q4. Google アシスタント や Alexa などのプロジェクトの呼び出しについて <a href="#call-the-project" id="call-the-project"></a>
+## Q4.  Alexa や Slack などのプロジェクトの呼び出しについて <a href="#call-the-project" id="call-the-project"></a>
 
-Google アシスタント や Alexa などから、作業開始をするときにプロジェクトの選択を行うためには、プロジェクト設定画面から、呼び方を設定することで、作業開始時にプロジェクトを紐付けることができます。
+&#x20;Alexa や Slack などから、作業開始をするときにプロジェクトの選択を行うためには、プロジェクト設定画面から、呼び方を設定することで、作業開始時にプロジェクトを紐付けることができます。
 
 設定後に「コトゴトの作業を開始するよ。」こんな感じで呼びかけるとプロジェクトが紐付くようになります。
 
@@ -67,7 +69,15 @@ CotoGotoからメール通知がありますが、メールの受信をしたく
 
 連携解除が行えます。
 
-## **Q7. 退会方法** <a href="#how-to-unsubscribe" id="how-to-unsubscribe"></a>
+## **Q7.** Discordとの連携方法について <a href="#how-t" id="how-t"></a>
+
+Discod Botを利用するためには、CotoGotoに登録済みである必要があります。
+
+Discod 連携が行われていない場合は、画面左側サイドメニューのボットのDiscordから連携を行い、その後、DiscordサーバーにDiscod Botを招待することで、利用可能となります。
+
+<figure><img src=".gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
+## **Q8. 退会方法** <a href="#how-to-unsubscribe" id="how-to-unsubscribe"></a>
 
 退会についてはブラウザからWebページにログイン後、『[アカウント](https://app.cotogoto.ai/3\_0/account)』の『[アカウントを廃止する場合](https://app.cotogoto.ai/3\_0/abolition)』から遷移することで、退会することができます。
 

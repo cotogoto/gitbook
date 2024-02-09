@@ -47,3 +47,8 @@ CotoGotoのチェックイン機能やおまけ機能を利用できます。こ
 
 
 
+**音声ライブラリ提供：**\
+「[SHAREVOX:つくよみちゃん](https://www.sharevox.app/characters)」を利用しています。
+
+
+

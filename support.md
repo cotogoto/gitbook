@@ -35,3 +35,7 @@ Trelloとの連携は、タスクやプロジェクトの進捗を視覚的に�
 <figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 各機能は、独自のメリットと利用シーンを持っており、ユーザーは自身の好みや作業スタイルに合わせて活用することができるでしょう。CotoGotoを使うことで、日々の作業やタスク管理がより簡単で、効率的になることを目指しましょう。
+
+**音声ライブラリ提供：**\
+「[SHAREVOX:つくよみちゃん](https://www.sharevox.app/characters)」を利用しています。
+

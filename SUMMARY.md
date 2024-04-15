@@ -10,6 +10,6 @@
 * [SNSのタイムラインをインポートする](sns\_import/README.md)
   * [Twitterのインポート](sns\_import/twitter.md)
   * [Facebookのインポート](sns\_import/facebook.md)
-* [Slack Bot マニュアル](discord\_manual.md)
-* [Discord Bot マニュアル](discord\_manual-1.md)
+* [Slack Bot マニュアル](slack\_manual.md)
+* [Discord Bot マニュアル](discord\_manual.md)
 * [FAQ](faq.md)

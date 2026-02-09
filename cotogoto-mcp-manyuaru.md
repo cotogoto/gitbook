@@ -1,3 +1,7 @@
+---
+description: CotoGoto MCP サーバーについての説明
+---
+
 # MCP マニュアル
 
 ## 1. CotoGoto MCP サーバー概要

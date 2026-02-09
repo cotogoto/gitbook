@@ -12,5 +12,5 @@
   * [Facebookのインポート](sns_import/facebook.md)
 * [Slack Bot マニュアル](slack_manual.md)
 * [Discord Bot マニュアル](discord_manual.md)
+* [MCP マニュアル](cotogoto-mcp-manyuaru.md)
 * [FAQ](faq.md)
-* [CotoGoto MCP マニュアル](cotogoto-mcp-manyuaru.md)

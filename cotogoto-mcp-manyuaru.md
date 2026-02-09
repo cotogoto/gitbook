@@ -32,7 +32,9 @@ MCP サーバーは以下のページから取得できます。
 
 MCP の設定方法は以下の公式ドキュメントを参考にしてください。
 
-[https://code.claude.com/docs/ja/mcp](https://code.claude.com/docs/ja/mcp)
+{% embed url="https://code.claude.com/docs/ja/mcp" %}
+
+{% embed url="https://lmstudio.ai/docs/app/mcp" %}
 
 ***
 

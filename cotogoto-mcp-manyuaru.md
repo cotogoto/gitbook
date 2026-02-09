@@ -22,7 +22,7 @@ MCP に対応したクライアントに設定することで、AI から以下�
 
 MCP サーバーは以下のページから取得できます。
 
-[https://github.com/cotogoto/cotogoto-mcp-server/releases](https://github.com/cotogoto/cotogoto-mcp-server/releases)
+{% embed url="https://github.com/cotogoto/cotogoto-mcp-server/releases" %}
 
 最新の `cotogoto-mcp-server.jar` をダウンロードしてください。
 
@@ -75,13 +75,7 @@ CotoGoto API を利用するための認証キーです。
 
 ### 5.1 利用可能コマンド一覧
 
-| No | Tool名                    | 概要     | パラメータ       | 動作内容                 |
-| -- | ------------------------ | ------ | ----------- | -------------------- |
-| 1  | cotogoto\_conversation   | 会話を実行  | message（必須） | メッセージを API に送信し応答を取得 |
-| 2  | cotogoto\_work\_start    | 作業開始通知 | なし          | 「作業開始」を送信            |
-| 3  | cotogoto\_work\_complete | 作業完了通知 | なし          | 「作業完了」を送信            |
-| 4  | cotogoto\_break\_start   | 休憩開始通知 | なし          | 「休憩開始」を送信            |
-| 5  | cotogoto\_break\_end     | 休憩終了通知 | なし          | 「休憩終了」を送信            |
+<table><thead><tr><th width="53">No</th><th>Tool名</th><th>概要</th><th>パラメータ</th><th>動作内容</th></tr></thead><tbody><tr><td>1</td><td>cotogoto_conversation</td><td>会話を実行</td><td>message（必須）</td><td>メッセージを API に送信し応答を取得</td></tr><tr><td>2</td><td>cotogoto_work_start</td><td>作業開始通知</td><td>なし</td><td>「作業開始」を送信</td></tr><tr><td>3</td><td>cotogoto_work_complete</td><td>作業完了通知</td><td>なし</td><td>「作業完了」を送信</td></tr><tr><td>4</td><td>cotogoto_break_start</td><td>休憩開始通知</td><td>なし</td><td>「休憩開始」を送信</td></tr><tr><td>5</td><td>cotogoto_break_end</td><td>休憩終了通知</td><td>なし</td><td>「休憩終了」を送信</td></tr></tbody></table>
 
 ### 5.2 各コマンド詳細
 
@@ -302,15 +296,3 @@ CotoGoto API
 * 業務サポート会話
 * 休憩管理
 * 作業ログ生成
-
-***
-
-もしよければ次も対応できます：
-
-* READMEとして公開向けに整形
-* 企業内仕様書フォーマット化
-* OpenAPI / MCP Tool Schema化
-* 利用シーケンス図追加
-* 初学者向けチュートリアル追加
-
-どの方向に仕上げますか？

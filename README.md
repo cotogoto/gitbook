@@ -1,69 +1,31 @@
 ---
-description: 会話型の人工知能をあなたの側に
+description: はじめる前にCotoGoto（コトゴト）で何ができるのかを学んでください。
 ---
 
-# Noby APIについて
+# チュートリアル
 
-![](.gitbook/assets/cotogoto-dev-title.png)
+## 1. **始める前に**
 
-## 目的
+{% embed url="https://speakerdeck.com/livlog_llc/cotogoto-01-dot-shi-meruqian-ni" %}
 
-NOBY APIはCotoGoto(コトゴト)内で利用している人工知能のAPIです。
+## **2. ライフログのつけ方**
 
-NOBY APIを利用することで、CotoGoto(コトゴト)に対しても会話を通して、様々な操作をすることができます。\
-CotoGoto(コトゴト)はFacebook、Twitter、Googleカレンダー、Trelloなどのサービスとも連携していますので、NOBY APIを通して、連動させることも可能となります。
+{% embed url="https://speakerdeck.com/livlog_llc/cotogoto-02-dot-raihurokufalsetukefang" %}
 
-※会話内容の例はこちらのサイトの「[AIとの会話のコツ](https://docs.cotogoto.ai/talk)」を参考にしてください。
+## **3. 解析の仕方**
 
-## 会話する
+{% embed url="https://speakerdeck.com/livlog_llc/cotogoto-03-dot-jie-xi-falseshi-fang" %}
 
-下記の YOUR\_API\_KEY の部分をメールで届いた API キーに置き換えて下記のコマンドをターミナル上で実行すると、会話結果のJsonが返却されます。
+## **4. 外部連携のメリット**
 
-```
-$ curl 'https://app.cotogoto.ai/webapi/noby.json' \
---verbose \
---get \
---data 'text=おはようございます' \
---data 'appkey=YOUR_API_KEY'
-```
+{% embed url="https://speakerdeck.com/livlog_llc/cotogoto-04-dot-wai-bu-lian-xi-falsemerituto" %}
 
-『地名』と『天気』という単語が含まれた場合、天気を教えてくれます。
+## **5. アプリのダウンロード**
 
-```
-$ curl 'https://app.cotogoto.ai/webapi/noby.json' \
---verbose \
---get \
---data 'text=今日の名古屋の天気は？' \
---data 'appkey=YOUR_API_KEY'
-```
+毎日のライフログを記録し続けることは、非常に大変なことです。 スマホからは、毎日を楽しく、簡単にライフログをつけることのできるパートナーをご提案します。
 
-『おみくじ』と『引きたい』という単語が含まれるとおみくじが引けます。
+人工知能のパートナーはiPhoneとAndroidに対応しており、以下の場所からダウンロードすることができます。
 
-```
-$ curl 'https://app.cotogoto.ai/webapi/noby.json' \
---verbose \
---get \
---data 'text=おみくじ引きたいな。' \
---data 'appkey=YOUR_API_KEY'
-```
+**→** [**iPhoneはこちらからダウンロード**](https://itunes.apple.com/us/app/kotogoto-ren-gong-zhi-nengwo/id987047565?mt=8)
 
-『じゃんけん』と『グー』『チョキ』『パー』という単語が含まれるとじゃんけんができます。
-
-```
-$ curl 'https://app.cotogoto.ai/webapi/noby.json' \
---verbose \
---get \
---data 'text=じゃんけんグー' \
---data 'appkey=YOUR_API_KEY'
-```
-
-## 文章中の単語と機能を連動
-
-### **会話から動作を取得する**
-
-会話の中に複数のキーワードを設定することにより、動作(コマンド機能)を設定することができます。
-
-### **取得した動作を様々なデバイスへ連携する**
-
-取得した動作(コマンド機能)は一意の動作キーを発行します。\
-動作キーからプログラム実行やデバイスへの指示などを送ったり、様々な連携を可能とします。
+**→** [**Androidはこちらからダウンロード**](https://play.google.com/store/apps/details?id=jp.linedesign.cotogoto2)
